@@ -1,0 +1,104 @@
+PATIENT_ID;SUBTYPE;AGE;COUNTRY;SEX;MENOPAUSE_STATUS;STAGE
+BR-V-002;HER2;46;Vietnam;Female;Premenopausal;III
+BR-V-003;;60;Vietnam;Female;Postmenopausal;II
+BR-V-007;Normal;38;Vietnam;Female;Premenopausal;III
+BR-V-008;HER2;52;Vietnam;Female;Perimenopausal;III
+BR-V-009;Luminal B;53;Vietnam;Female;Postmenopausal;III
+BR-V-011;Luminal A;69;Vietnam;Female;Postmenopausal;II
+BR-V-012;HER2;42;Vietnam;Female;Premenopausal;II
+BR-V-013;Luminal A;38;Vietnam;Female;Premenopausal;II
+BR-V-014;HER2;45;Vietnam;Female;Premenopausal;II
+BR-V-015;HER2;43;Vietnam;Female;Premenopausal;II
+BR-V-016;Luminal B;46;Vietnam;Female;Premenopausal;II
+BR-V-017;Luminal A;43;Vietnam;Female;Premenopausal;II
+BR-V-018;Normal;34;Vietnam;Female;Premenopausal;II
+BR-V-019;Luminal B;59;Vietnam;Female;;II
+BR-V-020;Luminal A;39;Vietnam;Female;Premenopausal;II
+BR-V-021;Luminal B;48;Vietnam;Female;Perimenopausal;II
+BR-V-022;Basal;40;Vietnam;Female;Premenopausal;II
+BR-V-023;Luminal A;40;Vietnam;Female;Premenopausal;II
+BR-V-024;HER2;49;Vietnam;Female;Premenopausal;II
+BR-V-026;Luminal B;43;Vietnam;Female;Premenopausal;II
+BR-V-027;HER2;41;Vietnam;Female;Premenopausal;II
+BR-V-028;HER2;52;Vietnam;Female;Perimenopausal;III
+BR-V-030;Luminal B;58;Vietnam;Female;Postmenopausal;II
+BR-V-031;Luminal A;81;Vietnam;Female;Postmenopausal;II
+BR-V-032;Luminal A;39;Vietnam;Female;Premenopausal;II
+BR-V-033;Normal;53;Vietnam;Female;Perimenopausal;III
+BR-V-034;Basal;48;Vietnam;Female;Premenopausal;II
+BR-V-036;Luminal B;42;Vietnam;Female;Premenopausal;II
+BR-V-037;Luminal B;56;Vietnam;Female;Postmenopausal;III
+BR-V-038;Normal;55;Vietnam;Female;Postmenopausal;I
+BR-V-039;Luminal A;38;Vietnam;Female;Premenopausal;II
+BR-V-040;;48;Vietnam;Female;Premenopausal;I
+BR-V-042;HER2;39;Vietnam;Female;Premenopausal;II
+BR-V-043;Basal;70;Vietnam;Female;Postmenopausal;II
+BR-V-044;Luminal A;50;Vietnam;Female;Perimenopausal;II
+BR-V-045;Normal;54;Vietnam;Female;Postmenopausal;II
+BR-V-047;Luminal A;38;Vietnam;Female;Premenopausal;I
+BR-V-048;Luminal A;49;Vietnam;Female;Perimenopausal;II
+BR-V-049;;47;Vietnam;Female;Premenopausal;II
+BR-V-050;Basal;54;Vietnam;Female;Postmenopausal;II
+BR-V-051;Basal;37;Vietnam;Female;Premenopausal;II
+BR-V-052;Luminal B;31;Vietnam;Female;Premenopausal;III
+BR-V-054;Luminal A;40;Vietnam;Female;Premenopausal;II
+BR-V-060;Normal;57;Vietnam;Female;Postmenopausal;II
+BR-V-064;Luminal A;41;Vietnam;Female;Premenopausal;II
+BR-V-067;HER2;55;Vietnam;Female;Postmenopausal;II
+BR-V-069;Basal;42;Vietnam;Female;Premenopausal;II
+BR-V-070;Basal;35;Vietnam;Female;Premenopausal;II
+BR-V-071;Basal;45;Vietnam;Female;Premenopausal;II
+BR-M-005;HER2;66;Mexico;Female;;II
+BR-M-026;Luminal A;54;Mexico;Female;;III
+BR-M-027;Luminal A;51;Mexico;Female;;II
+BR-M-028;Luminal A;79;Mexico;Female;;II
+BR-M-030;Luminal A;89;Mexico;Female;;II
+BR-M-034;Luminal A;66;Mexico;Female;;II
+BR-M-036;Luminal A;62;Mexico;Female;;II
+BR-M-037;Luminal A;58;Mexico;Female;;II
+BR-M-038;Luminal B;41;Mexico;Female;;II
+BR-M-041;Luminal A;50;Mexico;Female;;I
+BR-M-045;Basal;37;Mexico;Female;;II
+BR-M-047;HER2;78;Mexico;Female;;II
+BR-M-048;Normal;37;Mexico;Female;;II
+BR-M-050;Luminal A;47;Mexico;Female;;II
+BR-M-055;Luminal B;52;Mexico;Female;;I
+BR-M-059;Luminal A;54;Mexico;Female;;II
+BR-M-073;Luminal B;65;Mexico;Female;;III
+BR-M-074;Luminal A;47;Mexico;Female;;II
+BR-M-076;HER2;44;Mexico;Female;;II
+BR-M-079;Luminal B;56;Mexico;Female;;III
+BR-M-080;Normal;38;Mexico;Female;;II
+BR-M-083;Luminal A;59;Mexico;Female;;II
+BR-M-085;HER2;47;Mexico;Female;;II
+BR-M-094;Luminal B;47;Mexico;Female;;III
+BR-M-095;HER2;52;Mexico;Female;;I
+BR-M-098;Luminal A;65;Mexico;Female;;I
+BR-M-105;Luminal B;39;Mexico;Female;;III
+BR-M-106;Luminal A;42;Mexico;Female;;I
+BR-M-110;Luminal A;39;Mexico;Female;;II
+BR-M-116;Luminal B;92;Mexico;Female;;III
+BR-M-120;Basal;69;Mexico;Female;;I
+BR-M-121;;48;Mexico;Female;;II
+BR-M-122;Basal;51;Mexico;Female;;II
+BR-M-123;Luminal B;71;Mexico;Female;;II
+BR-M-126;Luminal B;63;Mexico;Female;;II
+BR-M-129;Luminal A;53;Mexico;Female;;II
+BR-M-150;Luminal B;49;Mexico;Female;;II
+BR-M-154;Luminal A;52;Mexico;Female;;I
+BR-M-155;;61;Mexico;Female;;II
+BR-M-158;Luminal B;56;Mexico;Female;;II
+BR-M-165;Luminal A;42;Mexico;Female;;III
+BR-M-166;HER2;53;Mexico;Female;;III
+BR-M-167;Luminal A;48;Mexico;Female;;II
+BR-M-169;Luminal A;52;Mexico;Female;;I
+BR-M-172;Luminal A;47;Mexico;Female;;II
+BR-M-174;Basal;57;Mexico;Female;;II
+BR-M-184;Luminal A;44;Mexico;Female;;II
+BR-M-186;Luminal B;55;Mexico;Female;;II
+BR-M-189;Basal;65;Mexico;Female;;III
+BR-M-191;HER2;55;Mexico;Female;;II
+BR-M-192;Luminal A;59;Mexico;Female;;III
+BR-M-193;HER2;43;Mexico;Female;;III
+BR-M-198;Normal;44;Mexico;Female;;II
+BR-M-200;Luminal A;42;Mexico;Female;;II
